@@ -226,5 +226,6 @@ max-height:^!px;
 min-height:^!px;
 #T=bs
 box-shadow: 2px 2px 2px #E8E8E8, -2px -2px 2px #E8E8E8;
-
+#T=bsi
+box-sizing:border-box;
 #
